@@ -1,6 +1,6 @@
 - Hi, I’m @FiveDotsFemb
 - I'm a big nerd, beginner at programming and lazy
-- Whenever I'll manage to make something I'll put it up here
+- Whenever I manage to make something I'll put it up here
 - You can reach me on Discord: @....#0420
 
 <!---
