@@ -22,6 +22,6 @@ Mainly using nodejs js py
 
 Discord: [@camwhore](<https://discord.com/users/289767921956290580>)
 
-Steam: [id/guilty](<https://steamcommunity.com/id/guilty/>)
+Steam: [id/jupiper](<https://steamcommunity.com/id/jupiper/>)
 
 Youtube: [@dgts](<https://www.youtube.com/@dgts>)
