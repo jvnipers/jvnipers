@@ -4,19 +4,11 @@ also known as Juni, Dots or Dot
 
 Just a random Finnish nerd, shit at coding and very lazy
 
-Mainly using nodejs js py
+Mainly using nodejs ts py
 
 ## Projects
 
 ### [FKZ](<https://github.com/FemboyKZ>) - CS:GO/CS2 [KZ](<https://developer.valvesoftware.com/wiki/Kreedz_Climbing>) Community I've built since 2021
-
-- [Website](<https://femboy.kz>) (really shit and not coded by me)
-
-- [Docs](<https://github.com/FemboyKZ/docs>) - Basic highlevel docs in vite
-
-- [Discord Bot](<https://github.com/FemboyKZ/bot>) - Moderation & more tools for the community discord server using discord.js
-
-- [Simple Backend](<https://github.com/FemboyKZ/basic-listen>) - Simple listener for executing commands on multiple instances, using express
 
 ## Other Platforms 
 
